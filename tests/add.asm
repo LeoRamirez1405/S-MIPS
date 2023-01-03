@@ -5,4 +5,17 @@ addi r4 r4 5
 tty r4
 halt
 
-#prints A
+#prints A          
+     
+          
+               
+                    
+                         
+                              
+                                   
+                                           
+                                                   
+                                                     
+                                                         
+                                                          
+                                                                           
